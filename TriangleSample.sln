@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleSample", "TriangleSample\TriangleSample.csproj", "{28F282FE-F3DE-4881-A80A-A9A7D376745E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{9099ACDC-F96C-4DDA-9822-3E6F4757B54A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests_xUnit", "Tests_xUnit\Tests_xUnit.csproj", "{02B32DC9-C70D-4251-A461-8E20B9F6071E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28F282FE-F3DE-4881-A80A-A9A7D376745E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F282FE-F3DE-4881-A80A-A9A7D376745E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F282FE-F3DE-4881-A80A-A9A7D376745E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F282FE-F3DE-4881-A80A-A9A7D376745E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9099ACDC-F96C-4DDA-9822-3E6F4757B54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9099ACDC-F96C-4DDA-9822-3E6F4757B54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9099ACDC-F96C-4DDA-9822-3E6F4757B54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9099ACDC-F96C-4DDA-9822-3E6F4757B54A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B32DC9-C70D-4251-A461-8E20B9F6071E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B32DC9-C70D-4251-A461-8E20B9F6071E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B32DC9-C70D-4251-A461-8E20B9F6071E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B32DC9-C70D-4251-A461-8E20B9F6071E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

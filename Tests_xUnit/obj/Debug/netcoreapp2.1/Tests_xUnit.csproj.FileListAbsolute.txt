@@ -1,0 +1,17 @@
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\bin\Debug\netcoreapp2.1\Tests_xUnit.deps.json
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\bin\Debug\netcoreapp2.1\Tests_xUnit.runtimeconfig.json
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\bin\Debug\netcoreapp2.1\Tests_xUnit.runtimeconfig.dev.json
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\bin\Debug\netcoreapp2.1\Tests_xUnit.dll
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\bin\Debug\netcoreapp2.1\Tests_xUnit.pdb
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\bin\Debug\netcoreapp2.1\TriangleSample.dll
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\bin\Debug\netcoreapp2.1\TriangleSample.pdb
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\obj\Debug\netcoreapp2.1\Tests_xUnit.csprojAssemblyReference.cache
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\obj\Debug\netcoreapp2.1\Tests_xUnit.csproj.CoreCompileInputs.cache
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\obj\Debug\netcoreapp2.1\Tests_xUnit.AssemblyInfoInputs.cache
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\obj\Debug\netcoreapp2.1\Tests_xUnit.AssemblyInfo.cs
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\obj\Debug\netcoreapp2.1\Tests_xUnit.csproj.CopyComplete
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\obj\Debug\netcoreapp2.1\Tests_xUnit.dll
+C:\Users\jetbrains\RiderProjects\TriangleSample\Tests_xUnit\obj\Debug\netcoreapp2.1\Tests_xUnit.pdb

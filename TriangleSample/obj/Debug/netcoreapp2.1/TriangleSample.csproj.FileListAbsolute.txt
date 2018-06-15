@@ -1,0 +1,11 @@
+C:\Users\jetbrains\RiderProjects\TriangleSample\TriangleSample\bin\Debug\netcoreapp2.1\TriangleSample.deps.json
+C:\Users\jetbrains\RiderProjects\TriangleSample\TriangleSample\bin\Debug\netcoreapp2.1\TriangleSample.runtimeconfig.json
+C:\Users\jetbrains\RiderProjects\TriangleSample\TriangleSample\bin\Debug\netcoreapp2.1\TriangleSample.runtimeconfig.dev.json
+C:\Users\jetbrains\RiderProjects\TriangleSample\TriangleSample\bin\Debug\netcoreapp2.1\TriangleSample.dll
+C:\Users\jetbrains\RiderProjects\TriangleSample\TriangleSample\bin\Debug\netcoreapp2.1\TriangleSample.pdb
+C:\Users\jetbrains\RiderProjects\TriangleSample\TriangleSample\obj\Debug\netcoreapp2.1\TriangleSample.csprojAssemblyReference.cache
+C:\Users\jetbrains\RiderProjects\TriangleSample\TriangleSample\obj\Debug\netcoreapp2.1\TriangleSample.csproj.CoreCompileInputs.cache
+C:\Users\jetbrains\RiderProjects\TriangleSample\TriangleSample\obj\Debug\netcoreapp2.1\TriangleSample.AssemblyInfoInputs.cache
+C:\Users\jetbrains\RiderProjects\TriangleSample\TriangleSample\obj\Debug\netcoreapp2.1\TriangleSample.AssemblyInfo.cs
+C:\Users\jetbrains\RiderProjects\TriangleSample\TriangleSample\obj\Debug\netcoreapp2.1\TriangleSample.dll
+C:\Users\jetbrains\RiderProjects\TriangleSample\TriangleSample\obj\Debug\netcoreapp2.1\TriangleSample.pdb
