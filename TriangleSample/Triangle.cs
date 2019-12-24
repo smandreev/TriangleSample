@@ -10,16 +10,22 @@ namespace TriangleSample
             var isTriangle = false;
             var a = sides[0];
             var b = sides[1];
-            var c = sides[2];
+            var c = sides[4];
 
+            
+            
+            
             foreach (int side in sides)
             {
-                if (side <= 0)
+                if (side < 0)
                 {
                     result = "Треугольник не существует";
                     return result;
                 }
             }
+            
+            
+            
 
             if ((a <= b + c) && (b <= a + c) && (a <= a + c))
             {

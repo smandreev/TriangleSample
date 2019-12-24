@@ -41,6 +41,8 @@ namespace TestProject1
         public void test5()
         {
             int[] testArr = {2, 1, 1};
+            
+            
             Triangle testTr = new Triangle();
             Assert.Equal(testTr.TypeOfTriangle(testArr), "Треугольник не существует"); //, "Что-то пошло не так");
         }
